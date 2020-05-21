@@ -23,3 +23,4 @@ From a user command prompt, source directory
 ```
 pythonw barcode_generator.py
 ```
+![Screenshot](https://i.imgur.com/kCIhAD3.png)
